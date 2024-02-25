@@ -1,0 +1,9 @@
+[package]
+name = "cookbook-typst"
+version = "0.1.0"
+entrypoint = "cookbok.typ"
+authors = ["remggo <https://github.com/remggo>"]
+license = "MIT"
+exclude = ["/docs/*"]
+description = "Recipe Formatter for Typst"
+homepage = "https://github.com/remggo/cookbook-typst"

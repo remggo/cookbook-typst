@@ -1,0 +1,44 @@
+---
+recipe-version: 1
+name: Baking Recipe
+metadata:  
+  servings:
+    number: 2
+    name: Personen
+  preptime: 1h
+  baking:
+    time: 11-14 min
+    fanoven: 160 °C
+    topbottom: 180 °C
+    diameter: 24 cm
+    dimensions: 10cm x 20cm
+  images:
+    small: "images/small.jpg"
+    big: "images/big.jpg"
+ingredients:
+  - Ingredient Title: title   
+  - Gouda: 100g
+  - Emmentaler: 100g
+  - Reis: 568g
+  - Käse: 340g
+  - Basilikum: 1 Zehe
+  - Käse
+steps:
+  - Lorem ipsum dolor sit amet, 
+    consetetur sadipscing elitr, 
+    sed diam nonumy eirmod tempor invidunt ut labore 
+    et dolore magna aliquyam erat, sed diam voluptua. At 
+    vero eos et accusam et justo duo dolores et ea rebum.
+  - |
+    Lorem ipsum dolor sit amet, 
+    consetetur sadipscing elitr, 
+    sed diam nonumy eirmod tempor invidunt ut labore
+  - Lorem ipsum dolor sit amet,
+    consetetur sadipscing elitr, 
+    sed diam nonumy eirmod tempor invidunt ut labore
+hint:
+  Lorem ipsum dolor sit amet, 
+  consetetur sadipscing elitr, 
+  sed diam nonumy eirmod tempor invidunt ut labore 
+  et dolore magna aliquyam erat, sed diam voluptua. At 
+  vero eos et accusam et justo duo dolores et ea rebum.
